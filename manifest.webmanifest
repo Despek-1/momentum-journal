@@ -1,0 +1,16 @@
+{
+  "id": "./",
+  "name": "Momentum – Dein Fitnessjournal",
+  "short_name": "Momentum",
+  "description": "Persönliches Fitness- und Gewohnheitsjournal mit Chatoberfläche.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#0c1018",
+  "theme_color": "#10151e",
+  "lang": "de",
+  "icons": [
+    {"src":"./icon-192.png","sizes":"192x192","type":"image/png","purpose":"any maskable"},
+    {"src":"./icon-512.png","sizes":"512x512","type":"image/png","purpose":"any maskable"}
+  ]
+}
